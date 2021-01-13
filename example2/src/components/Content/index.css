@@ -1,0 +1,19 @@
+.content-container {
+  display: flex;
+  flex: 1;
+  position: relative;
+}
+
+.value-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+
+.btn-theme {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}

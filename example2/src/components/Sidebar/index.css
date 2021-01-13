@@ -1,0 +1,14 @@
+.side-container {
+  display: flex;
+  flex: 0.3;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.button-container {
+  display: flex;
+  align-items: center;
+  padding: 10px 0px;
+  flex-direction: column;
+}

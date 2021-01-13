@@ -1,0 +1,9 @@
+.theme-status {
+  position: absolute;
+  top: 30px;
+}
+
+.icon {
+  width: 50px;
+  transition: 0.4s;
+}

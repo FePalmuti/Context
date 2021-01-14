@@ -1,0 +1,11 @@
+- Pasta store
+    - Criar um arquivo para cada contexto da aplicação
+        - Exportar provider
+        - Exportar hooks
+    - Criar um index que relacione todos esses arquivos
+
+- Arquivo index da aplicação
+    - Importar index da pasta store e usá-lo para envolver toda aplicação
+
+- Nas telas
+    - Importar e utilizar hooks dos contextos
